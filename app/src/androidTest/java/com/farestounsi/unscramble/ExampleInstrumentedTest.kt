@@ -1,4 +1,4 @@
-package com.TounsiFares.unscramble
+package com.farestounsi.unscramble
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

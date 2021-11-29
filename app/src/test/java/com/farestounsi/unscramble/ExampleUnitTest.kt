@@ -1,4 +1,4 @@
-package com.TounsiFares.unscramble
+package com.farestounsi.unscramble
 
 import org.junit.Test
 

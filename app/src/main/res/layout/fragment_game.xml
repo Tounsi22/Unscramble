@@ -6,7 +6,7 @@
     <data>
         <variable
             name="gameViewModel"
-            type="com.TounsiFares.unscramble.ui.game.GameViewModel" />
+            type="com.farestounsi.unscramble.ui.game.GameViewModel" />
         <variable
             name="maxNoOfWords"
             type="int" />

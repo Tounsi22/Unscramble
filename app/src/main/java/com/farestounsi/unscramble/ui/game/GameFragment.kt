@@ -1,4 +1,4 @@
-package com.TounsiFares.unscramble.ui.game
+package com.farestounsi.unscramble.ui.game
 
 import android.os.Bundle
 import android.util.Log
@@ -8,8 +8,8 @@ import android.view.ViewGroup
 import androidx.databinding.DataBindingUtil
 import androidx.fragment.app.Fragment
 import androidx.fragment.app.viewModels
-import com.TounsiFares.unscramble.R
-import com.TounsiFares.unscramble.databinding.FragmentGameBinding
+import com.farestounsi.unscramble.R
+import com.farestounsi.unscramble.databinding.FragmentGameBinding
 import com.google.android.material.dialog.MaterialAlertDialogBuilder
 
 /**

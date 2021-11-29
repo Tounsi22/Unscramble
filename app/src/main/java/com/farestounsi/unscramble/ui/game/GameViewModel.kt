@@ -1,4 +1,4 @@
-package com.TounsiFares.unscramble.ui.game
+package com.farestounsi.unscramble.ui.game
 
 import android.text.Spannable
 import android.text.SpannableString
